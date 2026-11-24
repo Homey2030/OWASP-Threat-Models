@@ -1,0 +1,28 @@
+{
+  "version": "2.6.2",
+  "release_version": "",
+  "released_at": "2026-11-23",
+  "summary": {
+    "title": "OWASP-Threat-Models",
+    "owner": "Homey Samuel Kweku Asamoah",
+    "description": "",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 2,
+        "title": "WLAN data flow of a simple home/Office",
+        "diagramType": "STRIDE",
+        "placeholder": "New STRIDE diagram description",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.6.2",
+        "cells": []
+      }
+    ],
+    "diagramTop": 3,
+    "reviewer": "",
+    "threatTop": 0
+  }
+}
